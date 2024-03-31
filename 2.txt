@@ -1,0 +1,5 @@
+°≠°≠
+ certificate-authority: /etc/kubernetes/epconfig/server.crt
+ server: https://image-bouncer-webhook.default.svc:1323/image_policy #ÃÌº” webhook server µÿ÷∑
+ name: bouncer_webhook
+°≠°≠
